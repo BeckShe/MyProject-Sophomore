@@ -1,0 +1,12 @@
+H:\Program\大二项目\Project\IMSProject\Model\bin\Debug\Model.dll
+H:\Program\大二项目\Project\IMSProject\Model\bin\Debug\Model.pdb
+H:\Program\大二项目\Project\IMSProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+H:\Program\大二项目\Project\IMSProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\Program\大二项目\Project\IMSProject\Model\obj\Debug\Model.dll
+H:\Program\大二项目\Project\IMSProject\Model\obj\Debug\Model.pdb
+H:\Program\大二项目\备份的Project\IMSProject\Model\bin\Debug\Model.dll
+H:\Program\大二项目\备份的Project\IMSProject\Model\bin\Debug\Model.pdb
+H:\Program\大二项目\备份的Project\IMSProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+H:\Program\大二项目\备份的Project\IMSProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\Program\大二项目\备份的Project\IMSProject\Model\obj\Debug\Model.dll
+H:\Program\大二项目\备份的Project\IMSProject\Model\obj\Debug\Model.pdb
